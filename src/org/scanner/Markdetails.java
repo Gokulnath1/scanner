@@ -6,7 +6,7 @@ public class Markdetails {
 	   
 	    public static void main(String[] args) {
 			
-	    	System.out.println("gk");
+	    	System.out.println("rm");
 	    	Scanner s = new Scanner(System.in);
 	    	
 	    	System.out.println("enter the student id");
